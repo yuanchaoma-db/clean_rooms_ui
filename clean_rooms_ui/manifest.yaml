@@ -1,0 +1,3 @@
+version: 1
+name: "clean-rooms-ui"
+description: "UI for clean rooms built on Clean Rooms API."
