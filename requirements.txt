@@ -1,0 +1,5 @@
+streamlit==1.38.0
+databricks-sdk==0.49.0
+streamlit_code_editor==0.1.22
+streamlit_ace==0.1.1
+hydralit_components==1.0.9
